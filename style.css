@@ -3,10 +3,6 @@
 		width:1518px;
 	}
 
-
-
-
-
 html {
     margin:0;
     padding:0px 0px 0px 0px;
@@ -337,7 +333,7 @@ body {
 
 }
 
-@media all and (min-width:1601px) and (max-width:3000px){
+@media all and (min-width:1601px){
 		html{
 		width:1920px;
 	}
