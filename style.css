@@ -337,7 +337,7 @@ body {
 
 }
 
-@media all and (min-width:1601px) and (max-width:2200px){
+@media all and (min-width:1601px) and (max-width:3000px){
 		html{
 		width:1920px;
 	}
